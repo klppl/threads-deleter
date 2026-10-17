@@ -1,5 +1,7 @@
 # Threads Reply Deleter
 
+[![License: Lagom](https://img.shields.io/badge/license-lagom-9E2B25)](https://klppl.github.io/lagom-license/)
+
 Browser console script that bulk-deletes your posts and replies on threads.com.
 
 ## Usage
